@@ -39,4 +39,4 @@ This project allows users to quickly check weather conditions such as temperatur
 
 1. Clone the repository:  
    ```bash
-   git clone <your-repo-url>
+   git clone <https://github.com/miirzoni/weather-dashboard.git>
